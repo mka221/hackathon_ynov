@@ -1,9 +1,11 @@
 # 🏗️ TechCorp Industries - Documentation de Déploiement Infrastructure
 
-**Rôle :** INFRA (Architecte du Système)
-**Auteur :** Maïka
-**Contexte :** Challenge IA TechCorp Industries (7h)
-**Statut :** Production Ready 🚀
+## 👥 Membres de l'Équipe
+1. **AUBIN DE BELLEVUE Maïka** : Infrastructure 
+2. **THEVENET Aymeric** : Data Science 
+3. **MORALES Julian** : Développement Web
+4. **VIVET TORTOSA Lucas** :Cybersécurité 
+5. **LAMARCHE Raphael** : Cybersécurité 
 
 ---
 
